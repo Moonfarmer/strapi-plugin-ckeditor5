@@ -31,12 +31,11 @@
     "description": "Replace Strapi default WYSIWYG editor with enhanced build of CKEditor 5"
   },
   "scripts": {
-    "postversion": "git push && git push --tags",
-    "postinstall": "cd ./node_modules/ckeditor5-build-strapi-wysiwyg && npm install && npm run build"
+    "postversion": "git push && git push --tags"
   },
   "dependencies": {
     "@ckeditor/ckeditor5-react": "^3.0.2",
-    "ckeditor5-build-strapi-wysiwyg": "https://github.com/Moonfarmer/ckeditor5-build-strapi-wysiwyg.git#68a010a7ac75f42d7f8b9884fd1e2aa0901aa1c7"
+    "ckeditor5-build-strapi-wysiwyg": "https://github.com/Moonfarmer/ckeditor5-build-strapi-wysiwyg.git#b4204ddc6cc087b5ae6b7a3f5b278897ee593781"
   },
   "author": {
     "name": "Pavel Roslovets",
