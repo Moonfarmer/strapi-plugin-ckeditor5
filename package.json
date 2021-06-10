@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-react": "^3.0.2",
-    "ckeditor5-build-strapi-wysiwyg": "https://github.com/Moonfarmer/ckeditor5-build-strapi-wysiwyg.git"
+    "ckeditor5-build-strapi-wysiwyg": "https://github.com/Moonfarmer/ckeditor5-build-strapi-wysiwyg.git#68a010a7ac75f42d7f8b9884fd1e2aa0901aa1c7"
   },
   "author": {
     "name": "Pavel Roslovets",
